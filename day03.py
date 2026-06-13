@@ -1,3 +1,4 @@
+# Day 3: Functions, *args, **kwargs, Map, Filter, List Comprehensions
 while True:
     print('''Enter the following numbers to particular programs:
       1:args mean median mode range variance std. deviation
