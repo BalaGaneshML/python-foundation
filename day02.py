@@ -1,3 +1,4 @@
+# Day 2: Dictionaries, Conditionals, Loops
 import random
 while True:
     print('''Enter the following numbers to particular programs:
